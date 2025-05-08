@@ -88,3 +88,10 @@ save_to_csv(books)
 # git add. => track all file in current directory
 # git commit -m "your message"
 # copy paste git code from github
+
+###########################
+# change the code
+# git add .
+# git commit -m "Your message"
+# git push
+############################
