@@ -81,3 +81,10 @@ create_table()
 books = scrape_book(URL)
 save_to_json(books)
 save_to_csv(books)
+
+# git init => initialize git repository
+# git status => if you want to check what are the status of files
+# git diff => if you want to check what are the changes
+# git add. => track all file in current directory
+# git commit -m "your message"
+# copy paste git code from github
